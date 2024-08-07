@@ -24,7 +24,7 @@ ascii_art = """
 """
 print(ascii_art)
 print("--------------------------------------------------------------")
-print("Author   :- MrGhostX")
+print("Author   :- @MrGhostXBOT ")
 print("Telegram :- Cyber Shield Force BD")
 print("Github   :- @MrGhost69")
 print("Tools    :- 1.1.1.1 / WARP UNLIMITED MB \n")
